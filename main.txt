@@ -1,0 +1,6 @@
+import A,B,C
+
+def feature1:
+	a;
+	b;
+	c;
