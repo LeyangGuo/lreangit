@@ -4,3 +4,8 @@ def feature1:
 	a;
 	b;
 	c;
+
+def feature2:
+	A.a
+	B.b
+	C.c
