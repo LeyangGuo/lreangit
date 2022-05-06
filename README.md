@@ -3,4 +3,6 @@
 
 main.txt: 伪代码
 
+假设C、D功能是不兼容的
+
 Under GPL
