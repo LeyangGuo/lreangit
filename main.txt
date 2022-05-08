@@ -1,4 +1,4 @@
-import A,B,D
+import A,B,libD
 
 def feature1:
 	a;
