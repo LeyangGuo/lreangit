@@ -1,4 +1,4 @@
-import A,B,C
+import A,B,D
 
 def feature1:
 	a;
@@ -10,8 +10,8 @@ def feature2:
 	B.c
 	C.c
 
-def featureC:
-	'''uncompatible with feature D'''
+def featureD:
+	'''uncompatible with feature C'''
 	a;
 	b;
 	c;
